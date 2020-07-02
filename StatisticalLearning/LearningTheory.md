@@ -16,7 +16,7 @@
     + SVM, Boosting
 - Components:
     <!-- + Feature: $$\mathcal{X} \sim R^d$$. -->
-    + Feature: <img src="https://latex.codecogs.com/svg.latex?\Large&space;\mathcal{X} \in R^d" />
+    + Feature: <img src="https://latex.codecogs.com/svg.latex?\Large&space;\mathcal{X}\inR^d"/>
     + Label: regression, classification.
     + Loss function, Square, Zero-one, Hlinge.
     + Model: $$f: \mathcal{X} \rightarrow \mathcal{Y}$$.
