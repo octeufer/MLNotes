@@ -27,3 +27,15 @@
     + Train set is a random sample from $$\mathcal{D}$$.
     + Bayes optimal predictor $$f^* = argmin_{\hat{y} \in \mathcal{Y}} \mathbb{E}[l(Y, \hat{y})|X=x]$$.
 - Bias-variance decomposition.
+
+
+## Sequential decision making
+
+- Problem:
+    + d actions.
+    + unknown deterministic assignment of losses to actions ##\mathbf{l}_t \in [0, 1]^d## for each time step t.
+    + target: strategy for picking action, in order to minimize the Regret.
+- Types, according to knowing what feedback information:
+    + Expert: knowing all losses to actions.
+    + Bandits: knowing only one loss for its associated action.
+    + Mediate: not all, not only one, knowing neighborhood feedbacks.With computational graph.
