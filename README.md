@@ -6,5 +6,5 @@ Notes for Machine Learning Models and Algorithms
 - [Probabilistic Circuit](StatisticalLearning/ProbabilityCircuit.md)
 
 ### Deep Learning
-- [Signal Fusion For Threat Detection](DeepLearning/signalFusionForTHreatDetection.md)
+- [Signal Fusion For Threat Detection](DeepLearning/signalFusionForThreatDetection.md)
 - [Cost Function and Optimization](DeepLearning/costFunc.md)
