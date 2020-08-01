@@ -1,4 +1,4 @@
-# Deep Learning-based Fusion Of Behavior Signals For Threat Detection
+# [Deep Learning-based Fusion Of Behavior Signals For Threat Detection](https://www.microsoft.com/security/blog/2020/07/23/seeing-the-big-picture-deep-learning-based-fusion-of-behavior-signals-for-threat-detection/)
 
 Applications of deep learning or machine learning methods to threat detection on endpoints, email, docs and apps. Within each domain, across domains, machine learning plays a critical role.
 
@@ -25,6 +25,4 @@ historical data with virtual process trees and signals of different types associ
 ### Deep CNN-BiLSTM
 
 *Aim*: model long sequences of signals within the process tree to create high-level and localized features for the next layer of the network.
-
-[ref!](https://www.microsoft.com/security/blog/2020/07/23/seeing-the-big-picture-deep-learning-based-fusion-of-behavior-signals-for-threat-detection/)
 
