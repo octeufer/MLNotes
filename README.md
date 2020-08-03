@@ -7,6 +7,7 @@ Notes for Machine Learning Models and Algorithms
 ### Statistical Learning
 - [Learning Theory](StatisticalLearning/LearningTheory.md)
 - [Probabilistic Circuit](StatisticalLearning/ProbabilityCircuit.md)
+- [How A/B Tests do Causal Inference?](StatisticalLearning/ABTestCI.md)
 
 ### Deep Learning
 - [Signal Fusion For Threat Detection](DeepLearning/signalFusionForThreatDetection.md)
