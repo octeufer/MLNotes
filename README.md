@@ -12,3 +12,4 @@ Notes for Machine Learning Models and Algorithms
 ### Deep Learning
 - [Signal Fusion For Threat Detection](DeepLearning/signalFusionForThreatDetection.md)
 - [Cost Function and Optimization](DeepLearning/costFunc.md)
+- [Transformer](DeepLearning/Transformer.md)
