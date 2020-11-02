@@ -4,6 +4,7 @@ Notes for Machine Learning Models and Algorithms
 - [Statistical Learning](#statistical-learning)
 - [Deep Learning](#deep-learning)
 - [XAI](#XAI)
+- [Causality](#Causality)
 
 ### Statistical Learning
 - [Learning Theory](StatisticalLearning/LearningTheory.md)
@@ -17,3 +18,6 @@ Notes for Machine Learning Models and Algorithms
 
 ### XAI
 - [Interpretable and Explainable Machine Learning](XAI/InterpretExplain.md)
+
+### Causality
+- [Correlation and Causation](Causality/CorrAndCausality.md)
